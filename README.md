@@ -1,2 +1,2 @@
 # the-little-schemer
-Examples from the book "The Little Schemer"
+Racket code examples for the book "The Little Schemer"
